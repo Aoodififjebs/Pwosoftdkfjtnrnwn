@@ -1,4 +1,17 @@
--- Table for mapping country codes to full country names with emojis
+local targetGameId = 6708206173
+
+if game.PlaceId == targetGameId then
+    game.Workspace.DescendantAdded:Connect(function(Object)
+        game:GetService("RunService").Stepped:Wait()
+
+        if not string.find(Object.Name, "BarrierFor") then return end
+
+        Object.CFrame = CFrame.new(9e9, 9e9, 9e9)
+    end)
+else
+    print("This is not Rate My Avatar.")
+end
+
 local countryNames = {
     ["AF"] = "Afghanistan 🇦🇫",
     ["AL"] = "Albania 🇦🇱",
