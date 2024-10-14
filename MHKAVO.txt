@@ -933,6 +933,38 @@ Section:NewButton("ѕt￴f￴￴￴￴￴u￴￴￴￴уо￴u￴￴￴￴f￴
     sendChatMessage("ѕt￴f￴￴￴￴￴u￴￴￴￴уо￴u￴￴￴￴f￴￴￴￴￴а￴￴t￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kі￴n￴￴g￴￴￴￴￴n￴￴і￴g￴￴￴￴￴g￴￴￴￴￴е￴￴￴￴rѕһ￴і￴tһ￴о￴ӏе￴￴￴￴ju￴￴￴ѕtѕu￴￴￴с￴￴￴￴￴￴￴￴￴￴￴km￴￴уdі￴с￴￴￴￴￴￴￴￴￴￴￴kі￴n￴￴ѕtе￴￴￴￴а￴￴d", "All")
 end)
 
+local Tab = Window:NewTab("Games Scripts")
+local Section = Tab:NewSection("Games Scripts")
+Section:NewButton("Blox Fruits (Redz)", "Run Blox Fruits Script", function() 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+    wait(1.5)
+    scriptexe()
+end)
+
+Section:NewButton("Broohaven", "Run Broohaven Script", function() 
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-R4D-script-no-key-17562"))()
+    wait(1.5)
+    scriptexe()
+end)
+
+Section:NewButton("Rivals", "Run Rivals Script", function() 
+    loadstring(game:HttpGet("https://paste.ee/r/Bp1dy/0"))()
+    wait(1.5)
+    scriptexe()
+end)
+
+Section:NewButton("Blade Ball", "Run Blade Ball Script", function() 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Akirascripts/Itinkifixedloadstringgithubnotworking/main/1"))()
+    wait(1.5)
+    scriptexe()
+end)
+
+Section:NewButton("Combat Warriors (Auto Parry)", "Run Combat Warriors Script", function() 
+    loadstring(game:HttpGet("https://paste.ee/r/dfyun/0"))()
+    wait(1.5)
+    scriptexe()
+end)
+
 local Tab = Window:NewTab("Fix")
 local Section = Tab:NewSection("Fix Scripts")
 Section:NewButton("Rejoin", "Click to rejoin", function()
