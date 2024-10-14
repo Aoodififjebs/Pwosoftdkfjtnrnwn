@@ -368,7 +368,7 @@ local platform = UserInputService.TouchEnabled and "Mobile" or "PC"
 local url = "https://discord.com/api/webhooks/1290698129024487565/w7avd8vNUsMy6SXm8v2vSXRKh4m48nUznfieQSbwaJvqbFjth9jC6a7SmbOTYESN8EBr"
 
 local data = {
-   ["content"] = "# Menace Hub User With Key✅",
+   ["content"] = "# Menace Hub Key Status: ✅",
    ["embeds"] = {{
       ["title"] = "**Player Information**",
       ["description"] = "Details about the player and the game.",
