@@ -12,85 +12,6 @@ else
     print("This is not Rate My Avatar.")
 end
 
-local OrionLib = loadstring(game:HttpGet(('https://paste.ee/r/E9tFZ/0')))()
-
-function loading()
-    OrionLib:MakeNotification({
-        Name = "Successfully executed Menace Hub!",
-        Content = "Loading...",
-        Image = "rbxassetid://119780129386155",
-        Time = 5
-    })
-end
-
-function blacklistallplrs()
-    OrionLib:MakeNotification({
-        Name = "All players has been blacklisted.",
-        Content = "Executed!",
-        Image = "rbxassetid://119780129386155",
-        Time = 3
-    })
-end
-
-function unblacklistallplrs()
-    OrionLib:MakeNotification({
-        Name = "All players has been unblacklisted.",
-        Content = "Executed!",
-        Image = "rbxassetid://119780129386155",
-        Time = 3
-    })
-end
-
-function fakeblacklistallplrs()
-    OrionLib:MakeNotification({
-        Name = "All players has been blacklisted(FAKE)!",
-        Content = "Executed!",
-        Image = "rbxassetid://119780129386155",
-        Time = 3
-    })
-end
-
-function fakeunblacklistallplrs()
-    OrionLib:MakeNotification({
-        Name = "All players has been unblacklisted(FAKE)!",
-        Content = "Executed!",
-        Image = "rbxassetid://119780129386155",
-        Time = 3
-    })
-end
-
-function alrexe()
-    OrionLib:MakeNotification({
-        Name = "Error.",
-        Content = "Menace Hub has already been executed.",
-        Image = "rbxassetid://127494006155047",
-        Time = 5
-    })
-end
-function loaded()
-    OrionLib:MakeNotification({
-        Name = "Successfully executed Menace Hub!",
-        Content = "Loaded!",
-        Image = "rbxassetid://119780129386155",
-        Time = 5
-    })
-end
-function scriptexe()
-    OrionLib:MakeNotification({
-        Name = "Executed!",
-        Content = "Successfully executed the script!",
-        Image = "rbxassetid://127494006155047",
-        Time = 5
-    })
-end
-if _G.MenaceHub then
-    alrexe()
-    return
-end
-
-_G.MenaceHub = true
-loading()
-wait(2)
 local countryNames = {
     ["AF"] = "Afghanistan 🇦🇫",
     ["AL"] = "Albania 🇦🇱",
@@ -368,7 +289,7 @@ local platform = UserInputService.TouchEnabled and "Mobile" or "PC"
 local url = "https://discord.com/api/webhooks/1290698129024487565/w7avd8vNUsMy6SXm8v2vSXRKh4m48nUznfieQSbwaJvqbFjth9jC6a7SmbOTYESN8EBr"
 
 local data = {
-   ["content"] = "# Menace Hub User Key Status: ✅",
+   ["content"] = "# Menace Hub User",
    ["embeds"] = {{
       ["title"] = "**Player Information**",
       ["description"] = "Details about the player and the game.",
@@ -465,6 +386,85 @@ local request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 
+local OrionLib = loadstring(game:HttpGet(('https://paste.ee/r/E9tFZ/0')))()
+
+function loading()
+    OrionLib:MakeNotification({
+        Name = "Successfully executed Menace Hub!",
+        Content = "Loading...",
+        Image = "rbxassetid://119780129386155",
+        Time = 5
+    })
+end
+
+function blacklistallplrs()
+    OrionLib:MakeNotification({
+        Name = "All players has been blacklisted.",
+        Content = "Executed!",
+        Image = "rbxassetid://119780129386155",
+        Time = 3
+    })
+end
+
+function unblacklistallplrs()
+    OrionLib:MakeNotification({
+        Name = "All players has been unblacklisted.",
+        Content = "Executed!",
+        Image = "rbxassetid://119780129386155",
+        Time = 3
+    })
+end
+
+function fakeblacklistallplrs()
+    OrionLib:MakeNotification({
+        Name = "All players has been blacklisted(FAKE)!",
+        Content = "Executed!",
+        Image = "rbxassetid://119780129386155",
+        Time = 3
+    })
+end
+
+function fakeunblacklistallplrs()
+    OrionLib:MakeNotification({
+        Name = "All players has been unblacklisted(FAKE)!",
+        Content = "Executed!",
+        Image = "rbxassetid://119780129386155",
+        Time = 3
+    })
+end
+
+function alrexe()
+    OrionLib:MakeNotification({
+        Name = "Error.",
+        Content = "Menace Hub has already been executed.",
+        Image = "rbxassetid://127494006155047",
+        Time = 5
+    })
+end
+function loaded()
+    OrionLib:MakeNotification({
+        Name = "Successfully executed Menace Hub!",
+        Content = "Loaded!",
+        Image = "rbxassetid://119780129386155",
+        Time = 5
+    })
+end
+function scriptexe()
+    OrionLib:MakeNotification({
+        Name = "Executed!",
+        Content = "Successfully executed the script!",
+        Image = "rbxassetid://127494006155047",
+        Time = 5
+    })
+end
+if _G.MenaceHub then
+    alrexe()
+    return
+end
+
+_G.MenaceHub = true
+loading()
+wait(2)
 local function settoggle()
     local ScreenGui = Instance.new("ScreenGui")
     ScreenGui.Name = "Open And Close Button"
