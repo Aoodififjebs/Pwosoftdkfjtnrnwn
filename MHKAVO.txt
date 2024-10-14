@@ -690,7 +690,7 @@ local Tab = Window:NewTab("Menace Scripts")
 local Section = Tab:NewSection("Trolling Scripts")
 
 Section:NewButton("Dog Style", "Run Dog Style", function()
-    loadstring(game:HttpGet('https://paste.ee/r/9lyaI/0'))()
+    loadstring(game:HttpGet('https://paste.ee/r/SZO10/0'))()
     wait(1.5)
     scriptexe()
 end)
