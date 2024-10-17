@@ -789,7 +789,7 @@ end)
 local Tab = Window:NewTab("RMA Bypass Booth")
 local Section = Tab:NewSection("Bypass Booth")
 Section:NewButton("Selling Sex Slaves", "Hehehehe", function()
-    DescText("Selling￴￴￴￴ѕе￴￴￴￴xѕӏа￴￴vе￴￴￴￴ѕ￴f￴￴￴o￴r f￴ree (Stay behind to get sold)😋")
+    DescText("S￴E￴L￴L￴I￴N￴GS￴￴￴E￴￴￴￴X￴S￴L￴A￴V￴E￴SF￴O￴RFREE   (Stay Behind to get Sold)😋🤤")
 end)
 Section:NewButton("Can I fuck you up😋", "Hahaha...", function()
     DescText("С￴￴￴￴￴￴￴￴￴an￴￴Ӏ￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴ku￴￴u￴p😋")
