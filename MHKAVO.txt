@@ -758,7 +758,6 @@ Section:NewKeybind("Toggle UI", "Open or Close the UI.", Enum.KeyCode.F6, functi
 end)
 Section:NewButton("FE Fake Blacklist All", "Fe Fake Blacklist All Players", function()
     fakeblacklistallplrs()
-    DescText("u￴g￴￴￴￴￴о￴t￴f￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kі￴n￴￴trо￴ӏӏе￴d😂")
     startBlacklist()
 end)
 
