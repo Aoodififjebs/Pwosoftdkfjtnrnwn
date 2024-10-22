@@ -798,7 +798,7 @@ Section:NewButton("Wanna suck my dick?😋", "HEHEHHE", function()
     DescText("W￴an￴n￴￴а￴￴ѕu￴￴￴с￴￴￴￴￴￴￴￴￴￴￴km￴уdі￴с￴￴￴￴￴￴￴￴￴￴￴k?😋")
 end)
 Section:NewButton("Selling some niggas..", "AYO?", function()
-    DescText("Seӏӏin sо￴m￴е￴￴￴￴nіg￴￴￴￴￴g￴￴￴￴￴arn..sta￴y behindto￴g￴￴￴￴etѕо￴ӏd🤑")
+    DescText("Sell￴i￴ns￴omen￴￴￴￴￴￴￴i￴￴￴￴gg￴￴a￴￴srn￴.￴.staybehind￴to g￴e￴t￴sold￴🤑")
 end)
 
 local Tab = Window:NewTab("CHAT BYPASS")
