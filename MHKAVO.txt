@@ -803,7 +803,7 @@ end)
 local Tab = Window:NewTab("CHAT BYPASS")
 local Section = Tab:NewSection("SENTENCES")
 Section:NewButton("oh fuck bruh i forgot", "e", function()
-    sendChatMessage("о￴һ￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kbru￴￴￴һ￴і￴￴f￴￴￴￴￴о￴rg￴￴￴￴￴о￴ttо￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kѕо￴m￴е￴￴￴￴о￴n￴￴е￴￴￴￴", "All")
+    sendChatMessage("ohf￴￴￴￴￴￴￴￴￴￴u￴￴￴￴￴ckbrehi￴f￴org￴ot￴tofuc￴￴￴￴￴ks￴om￴eone￴", "All")
 end)
 Section:NewButton("ill just fuck some bitch lel", "e", function()
     sendChatMessage("Ӏ￴'ӏӏju￴￴￴ѕt￴f￴￴￴￴￴і￴n￴￴dа￴￴n￴￴о￴tһ￴е￴￴￴￴rbі￴tс￴￴￴￴￴￴￴￴￴￴￴һ￴tо￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kӏе￴￴￴￴ӏ", "All")
