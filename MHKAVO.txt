@@ -788,16 +788,16 @@ end)
 local Tab = Window:NewTab("RMA Bypass Booth")
 local Section = Tab:NewSection("Bypass Booth")
 Section:NewButton("Selling Sex Slaves", "Hehehehe", function()
-    DescText("S￴E￴L￴L￴I￴N￴GS￴￴￴E￴￴￴￴X￴S￴L￴A￴V￴E￴SF￴O￴RFREE   (Stay Behind to get Sold)😋🤤")
+    DescText("S￸E￸L￸LIN￸G￸S￸￸￸E￸￸￸￸X￸￸￸￸S￸L￸AV￸E￸S￸FOR￸F￸REE￸!(stay behind to be sold😋)")
 end)
 Section:NewButton("Can I fuck you up😋", "Hahaha...", function()
-    DescText("Ca￴nI￴f￴￴￴￴￴￴￴￴￴￴uc￴￴￴￴￴￴￴￴￴￴ku￴u￴p?￴😋")
+    DescText("C￸a￸n￸I￸f￸￸u￸￸￸￸c￸￸￸￸k￸￸u￸u￸p￸?￸😋")
 end)
 Section:NewButton("Wanna suck my dick?🤤", "HEHEHHE", function()
-    DescText("Wa￴nnas￴uc￴km￴ydi￴￴￴￴￴￴￴￴￴ck￴￴￴￴￴￴￴￴?￴￴￴￴￴￴🤤")
+    DescText("W￸a￸n￸n￸a￸s￸u￸c￸k￸m￸y￸d￸￸￸￸i￸￸￸c￸￸￸k￸￸￸?￸￸￸￸🤤")
 end)
 Section:NewButton("Selling some niggas..", "AYO?", function()
-    DescText("Sell￴i￴ns￴omen￴￴￴￴￴￴￴i￴￴￴￴gg￴￴a￴￴srn￴.￴.staybehind￴to g￴e￴t￴sold￴🤑")
+    DescText("I￸'￸m￸s￸e￸l￸l￸i￸n￸g￸n￸￸i￸￸g￸￸￸g￸￸￸a￸￸s￸￸￸￸f￸o￸r￸f￸r￸e￸e￸!   ￸     S￸￸￸t￸￸￸a￸￸￸￸y￸￸BegindTo")
 end)
 
 local Tab = Window:NewTab("CHAT BYPASS")
