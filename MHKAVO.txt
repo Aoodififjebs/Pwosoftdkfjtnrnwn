@@ -803,37 +803,37 @@ end)
 local Tab = Window:NewTab("CHAT BYPASS")
 local Section = Tab:NewSection("SENTENCES")
 Section:NewButton("oh fuck bruh i forgot to fuck someone", "e", function()
-    sendChatMessage("o￴h￴fuc￴￴￴￴￴￴￴￴￴￴kb￴r￴e￴h￴i￴f￴or￴g￴o￴t￴t￴ofuc￴￴￴￴￴￴￴k￴￴￴￴￴￴￴￴￴￴￴so￴me￴one", "All")
+    sendChatMessage("o￸h￸f￸￸￸￸u￸￸￸c￸￸￸￸k￸￸￸b￸r￸e￸h￸i￸f￸o￸r￸g￸o￸t￸t￸o￸f￸￸u￸￸c￸￸k￸￸￸s￸o￸m￸e￸o￸n￸e￸", "All")
 end)
 Section:NewButton("a perfect candidate", "e", function()
-    sendChatMessage("hmm.. a perfect candidate to b￴em￴y￴se￴￴￴￴￴￴xsla￴ve,alri￴gh￴tu￴p￴￴￴￴￴￴￴￴a￴￴￴￴￴￴￴￴￴sse￴￴￴￴￴d￴￴￴￴", "All")
+    sendChatMessage("h￸m￸.￸.￸a￸p￸￸￸e￸￸￸￸r￸￸￸f￸￸￸e￸￸￸c￸￸t￸￸￸c￸a￸n￸d￸i￸d￸a￸t￸e￸t￸o￸b￸e￸m￸y￸s￸￸￸e￸￸x￸￸￷￷s￸l￸a￸v￸e￸.￸.￸a￸l￸r￸i￸g￸h￸t￸u￸p￸￸a￸￸￸￸s￸￸￸s￸￸￸￸e￸￸￸d￸￸￸.￸￸￸￸￴￴￴￴", "All")
 end)
 Section:NewButton("i love to fuck furries like u slowly", "e", function()
-    sendChatMessage("￴￴￴￴￴il￴ov￴etof￴￴￴￴uc￴￴￴￴￴￴￴￴￴￴￴kfur￴ri￴esbr￴o,￴d￴wI￴'￴llf￴￴￴￴￴￴￴￴￴￴u￴￴￴￴￴￴￴￴￴￴￴ckuslowly", "All")
+    sendChatMessage("￴￴￴￴￴i￸l￸o￸v￸e￸t￸o￸f￸￸￸u￸￸￸￸c￸￸k￸￸￸￸f￸u￸r￸r￸i￸e￸s￸b￸r￸o￷￷￸d￸w￸,￸I￸'￸l￸l￸f￸￸￸￸u￸￸c￸￸￸￸k￸￸￸￸u￸s￸l￸o￸w￸l￸y￸", "All")
 end)
 Section:NewButton("wanna have a sex with me?", "e", function()
-    sendChatMessage("wanna￴h￴a￴v￴e￴ase￴￴￴￴￴￴￴￴￴xwit￴hm￴e￴?￴", "All")
+    sendChatMessage("w￸a￸n￸n￸a￸h￸a￸v￸e￸a￸s￸￸￸e￸￸￸￸x￸￸￸w￸i￸t￸h￸m￸e￸?￸￴", "All")
 end)
 Section:NewButton("lets have sex babe ill make sure to taste every single part of yo body", "e", function()
-    sendChatMessage("l￴et￴'￴s￴h￴avese￴￴￴￴￴￴￴￴xba￴b￴e I'll make sure to taste every single part of yo body", "All")
+    sendChatMessage("l￸e￸t￸'￸s￸h￸a￸v￸e￸s￸￸e￸￸￸x￸￸b￸a￸b￸e￸,￸￷￷I'll make sure to taste every single part of yo body", "All")
 end)
 Section:NewButton("like gimme a nice cow gurl dick ride", "e", function()
-    sendChatMessage("lik￴eg￴i￴m￴me￴anice￴cowg￴u￴r￴ldi￴￴￴￴￴￴￴￴￴￴￴ck￴￴￴￴￴r￴id￴eb￴reh", "All")
+    sendChatMessage("l￸i￸k￸e￸g￸i￸m￸m￸e￸a￸n￸i￸c￸e￸c￸o￸w￸g￸￸￸i￸￸￸￸r￸￸l￸￸￸d￸￸￸i￸￸c￸￸￸￸k￸￸￸￸r￸i￸d￸e￸", "All")
 end)
 Section:NewButton("shut the fuck up im not talking to u", "e", function()
-    sendChatMessage("s￴h￴utt￴hef￴￴￴￴￴￴￴￴u￴￴￴￴￴￴￴￴cku￴pI￴'m￴not￴talk￴in￴gtou￴", "All")
+    sendChatMessage("s￸h￸u￸t￸t￸h￸e￸f￸￸u￸￸c￸￸￸k￸￸u￸p￸b￸r￸o￸I￸'￸m￸n￸o￸t￸t￸a￸l￸k￸i￸n￸g￸t￸o￸u￸￴", "All")
 end)
 Section:NewButton("i love minors too cuz they have a virgin pussy", "e", function()
-    sendChatMessage("i￴l￴ovem￴inor￴s￴t￴oo￴ cu￴z￴th￴eyha￴v￴e￴a￴freshand￴vi￴r￴g￴i￴npu￴￴￴￴￴￴￴￴￴ss￴￴￴￴￴￴￴yis￴n'￴t￴t￴ha￴tg￴oo￴d", "All")
+    sendChatMessage("i￸l￸o￸v￸e￸m￸i￸n￸o￸r￸s￸t￸o￸o￸b￸r￸o￸c￸u￸z￸t￸h￸e￸y￸a￸r￸e￸a￸l￸l￸v￸i￸r￸g￸i￸n￸s￸l￸o￸l￸", "All")
 end)
 Section:NewButton("a furry like u should get fucked politely", "e", function()
-    sendChatMessage("a￴f￴ur￴r￴yl￴ik￴e￴u￴s￴houl￴d￴g￴e￴tfuc￴￴￴￴￴￴￴k￴￴￴￴￴￴￴￴￴￴edp￴o￴l￴ite￴l￴y🤤", "All")
+    sendChatMessage("a￸f￸u￸r￸r￸y￸l￸i￸k￸e￸u￸s￸h￸o￸u￸l￸d￸g￸e￸t￸f￸￸￸u￸￸￸￸c￸￸￸k￸￸￸￸e￸￸￸￸d￸￸politely😋", "All")
 end)
 Section:NewButton("с￴￴￴￴￴￴￴￴￴￴￴а￴￴n￴￴u￴￴￴ru￴￴￴b￴уо￴u￴￴￴rр￴￴￴u￴￴￴ѕѕ￴уtо￴m￴￴уdі￴с￴￴￴￴￴￴￴￴￴￴￴k?Ӏ￴dо￴n￴￴'tg￴￴￴￴￴і￴vе￴￴￴￴а￴￴ѕһ￴і￴tе￴￴￴￴vе￴￴￴￴n￴￴і￴￴f￴￴￴￴￴і￴t'ѕѕw￴е￴￴￴￴а￴￴t￴у", "e", function()
-    sendChatMessage("canur￴ub￴yop￴￴￴￴￴￴u￴￴￴￴￴￴ssyt￴omydic￴￴￴￴￴￴￴￴k?i dont gi￴ve ashi￴￴￴￴￴￴￴￴￴tev￴e￴nifit'￴s￴swe￴a￴ty", "All")
+    sendChatMessage("c￸a￸n￸u￸r￸u￸b￸y￸o￸p￸￸￸￸u￸￸s￸￸s￸￸￸￸y￸￸t￸o￸m￸y￸d￸￸￸i￸￸￸c￸￸￸￸k￸￸￸￸?￸￸￸￸I￸don't￷￷g￸i￸v￸e￸a￸s￸￸￸h￸￸￸￸i￸￸t￸￸￸e￸v￸e￸n￸i￸f￸i￸t￸'￸s￸s￸w￸e￸a￸t￸y￸", "All")
 end)
 Section:NewButton("һ￴а￴￴vе￴￴￴￴u￴￴￴е￴￴￴￴vе￴￴￴￴rtа￴￴ѕtе￴￴￴￴dа￴￴с￴￴￴￴￴￴￴￴￴￴￴u￴￴￴m￴bе￴￴￴￴￴f￴￴￴￴￴о￴rе￴￴￴￴?m￴і￴n￴￴е￴￴￴￴і￴ѕа￴￴bі￴tѕа￴￴ӏt￴уbu￴￴￴t￴уо￴u￴￴￴'ӏӏӏо￴vе￴￴￴￴і￴t", "e", function()
-    sendChatMessage("h￴av￴eu￴evertaste￴￴￴￴￴da￴cu￴￴￴￴￴￴m￴￴￴￴bef￴ore? mine is a bit salty but you'll love it", "All")
+    sendChatMessage("h￸a￸v￸e￸u￸e￸v￸e￸r￸t￸￸￸a￸￸￸￸s￸￸￸￸t￸￸￸￸e￸￸￸￸d￸￸￸￸a￸c￸￸￸￸u￸￸￸￸m￸￸￸￸before?￷￷mine is a bit salty but you'll love it..", "All")
 end)
 Section:NewButton("і￴rе￴￴￴￴m￴е￴￴￴￴m￴bе￴￴￴￴rа￴￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kі￴n￴￴g￴￴￴￴￴n￴￴і￴g￴￴￴￴￴g￴￴￴￴￴е￴￴￴￴rр￴￴￴rе￴￴￴￴tе￴￴￴￴n￴￴dі￴n￴￴g￴￴￴￴￴tо￴bе￴￴￴￴а￴￴ѕа￴￴і￴n￴￴tѕо￴і￴￴f￴￴￴￴￴u￴￴￴с￴￴￴￴￴￴￴￴￴￴￴kһ￴е￴￴￴￴ru￴￴￴р", "e", function()
     sendChatMessage("ireme￴mb￴erani￴￴￴￴￴￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴￴￴￴er￴￴￴￴￴pr￴e￴t￴e￴ndi￴ngtobe￴asaint￴ s￴oi￴f￴￴￴￴￴￴￴￴￴￴￴u￴￴￴￴c￴￴￴￴￴￴￴￴kedheru￴p￴lo￴lol￴", "All")
