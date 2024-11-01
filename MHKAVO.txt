@@ -712,11 +712,6 @@ Section:NewButton("Ascend and Descend", "Run Ascend and Descend", function()
     wait(1.5)
     scriptexe()
 end)
-Section:NewButton("Automatic Chat Bypass", "Run Auto Chat Bypass", function()
-    loadstring(game:HttpGet('https://paste.ee/r/8kImq/0'))()
-    wait(1.5)
-    scriptexe()
-end)
 Section:NewButton("Jerk Script", "🤨🤨", function()
     loadstring(game:HttpGet("https://paste.ee/r/MRrEd/0"))()
     wait(1.5)
@@ -805,6 +800,16 @@ end)
 
 local Tab = Window:NewTab("CHAT BYPASS")
 local Section = Tab:NewSection("SENTENCES")
+Section:NewButton("Automatic Chat Bypass 1", "Run Auto Chat Bypass", function()
+    loadstring(game:HttpGet('https://rawscripts.net/raw/Universal-Script-Gaze-bypass-Altered-21081'))()
+    wait(1.5)
+    scriptexe()
+end)
+Section:NewButton("Automatic Chat Bypass 2", "Run Auto Chat Bypass", function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Synergy-Networks/products/main/BetterBypasser/loader.lua"))()
+    wait(1.5)
+    scriptexe()
+end)
 Section:NewButton("oh fuck bruh i forgot to fuck someone", "e", function()
     sendChatMessage("o￸h￸f￸￸￸￸u￸￸￸c￸￸￸￸k￸￸￸b￸r￸e￸h￸i￸f￸o￸r￸g￸o￸t￸t￸o￸f￸￸u￸￸c￸￸k￸￸￸s￸o￸m￸e￸o￸n￸e￸", "All")
 end)
