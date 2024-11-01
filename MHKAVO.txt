@@ -1,4 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Aoodnfnekskdof/Oaodjfnaoaooc/refs/heads/main/duhfgkdfkjg"))()
+if not game:IsLoaded() then
+    game.IsLoaded:Wait()
+end
 
 local targetGameId = 6708206173
 
