@@ -3,6 +3,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Aoodnfnekskdof/Oaodjf
 local targetGameId = 6708206173
 
 if game.PlaceId == targetGameId then
+    local part = workspace:FindFirstChild("GroupAccessPart")
+
+    if part then
+        part:Destroy()
+        print("Stage barrier has been destroyed.")
+    else
+        print("Stage barrier has already been destroyed.")
+    end
+    wait(0.5)
     game.Workspace.DescendantAdded:Connect(function(Object)
         game:GetService("RunService").Stepped:Wait()
 
@@ -775,16 +784,6 @@ end)
 Section:NewButton("Unblacklist All", "Unblacklist all players", function()
     unblacklistallplrs()
     unblacklistAll()
-end)
-Section:NewButton("Destroy Stage Barrier", "Destroy Stage Barrier.", function()
-    local part = workspace:FindFirstChild("GroupAccessPart")
-
-    if part then
-        part:Destroy()
-        print("Stage barrier has been destroyed.")
-    else
-        print("Stage barrier has already been destroyed.")
-    end
 end)
 
 local Tab = Window:NewTab("RMA Bypass Booth")
